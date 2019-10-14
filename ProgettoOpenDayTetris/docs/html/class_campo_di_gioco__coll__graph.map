@@ -1,0 +1,5 @@
+<map id="CampoDiGioco" name="CampoDiGioco">
+<area shape="rect" id="node3" href="$class_forma.html" title="Classe che rappresenta una forma. " alt="" coords="208,1085,328,1397"/>
+<area shape="rect" id="node6" href="$class_quadrato.html" title="Classe rappresenta un quadrato che compone una forma. " alt="" coords="79,696,199,1008"/>
+<area shape="rect" id="node2" href="$interface_disegnabile.html" title="Interfaccia che rappresenta un oggetto in grado di esser disegnato in un piano cartesiano con origine..." alt="" coords="11,5,131,200"/>
+</map>

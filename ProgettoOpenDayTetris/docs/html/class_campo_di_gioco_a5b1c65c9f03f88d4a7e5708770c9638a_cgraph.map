@@ -1,0 +1,4 @@
+<map id="CampoDiGioco" name="CampoDiGioco">
+<area shape="rect" id="node2" href="$class_campo_di_gioco.html#a074b6a3364b60ef12bdb09095cedcf7a" title="Restituisce il numero di righe del campo di gioco. " alt="" coords="171,5,221,32"/>
+<area shape="rect" id="node3" href="$class_campo_di_gioco.html#a3a6c62f37cc43447d0c2e77e1ba2a9a3" title="Restituisce il numero di colonne del campo di gioco. " alt="" coords="163,56,229,83"/>
+</map>

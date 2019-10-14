@@ -1,0 +1,4 @@
+<map id="creaFormaRandom" name="creaFormaRandom">
+<area shape="rect" id="node2" href="$class_campo_di_gioco.html#af5ca4e3f85b4f522d4d20652409e236a" title="Crea una nuova forma. " alt="" coords="185,5,277,32"/>
+<area shape="rect" id="node3" href="$class_schermata_di_gioco.html#adf629764830f4b141f55b887a2619127" title="Gestisce la forma attiva(creazione e gravità) e il punteggio. " alt="" coords="325,5,503,32"/>
+</map>

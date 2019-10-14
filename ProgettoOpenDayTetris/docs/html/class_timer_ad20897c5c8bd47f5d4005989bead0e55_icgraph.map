@@ -1,0 +1,5 @@
+<map id="reset" name="reset">
+<area shape="rect" id="node2" href="$class_input_random.html#ab992da5aed740615439a4758aca163b2" title="Ritorna un input randomico. " alt="" coords="104,5,265,32"/>
+<area shape="rect" id="node3" href="$_progetto_open_day_tetris_8pde.html#a56c5cf8a568cff737ff95520cbe6b405" title="Disegna la schermata corrente e gestisce la logica di gioco. " alt="" coords="160,56,209,83"/>
+<area shape="rect" id="node4" href="$class_timer.html#a6a8bc5014802d569f6d01c4f36121a81" title="Crea un nuovo timer e lo resetta. " alt="" coords="157,107,212,133"/>
+</map>

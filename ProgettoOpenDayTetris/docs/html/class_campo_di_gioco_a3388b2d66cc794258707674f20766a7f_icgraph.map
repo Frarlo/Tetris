@@ -1,0 +1,7 @@
+<map id="getPosY" name="getPosY">
+<area shape="rect" id="node2" href="$class_campo_di_gioco.html#a56c5cf8a568cff737ff95520cbe6b405" title="Disegna il campo di gioco. " alt="" coords="149,5,199,32"/>
+<area shape="rect" id="node5" href="$class_campo_di_gioco.html#aa0156523a88049eb9bea7163b4d958de" title="Restituisce l&#39;altezza della schermata. " alt="" coords="125,56,223,83"/>
+<area shape="rect" id="node6" href="$class_campo_di_gioco.html#a4ee081b0d34af78f55ae7929fa3d7d46" title="Restituisce l&#39;ordinata del centro del campo di gioco. " alt="" coords="131,107,217,133"/>
+<area shape="rect" id="node3" href="$class_schermata_di_gioco.html#a56c5cf8a568cff737ff95520cbe6b405" title="Disegna l&#39;interfaccia di gioco. " alt="" coords="271,56,433,83"/>
+<area shape="rect" id="node4" href="$class_schermata_game_over.html#a56c5cf8a568cff737ff95520cbe6b405" title="Disegna la schermata di Game Over. " alt="" coords="481,56,659,83"/>
+</map>

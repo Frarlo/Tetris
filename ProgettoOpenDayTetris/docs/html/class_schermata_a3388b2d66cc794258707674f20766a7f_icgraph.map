@@ -1,0 +1,4 @@
+<map id="getPosY" name="getPosY">
+<area shape="rect" id="node2" href="$class_schermata.html#a4ee081b0d34af78f55ae7929fa3d7d46" title="Restituisce la coordinata Y del centro della finestra. " alt="" coords="131,5,217,32"/>
+<area shape="rect" id="node3" href="$class_schermata.html#aa0156523a88049eb9bea7163b4d958de" title="Restituisce l&#39;altezza della finestra. " alt="" coords="125,56,223,83"/>
+</map>

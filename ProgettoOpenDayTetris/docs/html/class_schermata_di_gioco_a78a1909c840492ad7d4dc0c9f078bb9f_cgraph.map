@@ -1,0 +1,10 @@
+<map id="spostaGiu" name="spostaGiu">
+<area shape="rect" id="node2" href="$class_campo_di_gioco.html#a41f61f2d107fcdefe097d61637282904" title="Restituisce la forma che può essere spostata e ruotata dal giocatore. " alt="" coords="135,5,335,32"/>
+<area shape="rect" id="node3" href="$class_forma.html#a347c753edd29439b88a7ece4a123b1d9" title="Trasla, se possibile, tutti i quadrati della figura di quanto richiesto. " alt="" coords="187,56,282,83"/>
+<area shape="rect" id="node4" href="$class_campo_di_gioco.html#a09a3f362609292584cad753e34ac9943" title="Disattiva la forma attiva corrente. " alt="" coords="155,107,315,133"/>
+<area shape="rect" id="node5" href="$class_forma.html#a90ea8b524868113624602452b3a27d50" title="Ritorna una lista non modificabile dei quadrati che compongono questa forma. " alt="" coords="407,56,537,83"/>
+<area shape="rect" id="node6" href="$class_campo_di_gioco.html#a29109d0332e31289a05c4e4d99d48e07" title="Resituisce la riga in cui è contenuto il quadrato dato. " alt="" coords="393,107,551,133"/>
+<area shape="rect" id="node8" href="$class_campo_di_gioco.html#a3a53f7c8b042e3db726e0b869cac2a4c" title="Resituisce la colonna in cui è contenuto il quadrato dato. " alt="" coords="383,157,561,184"/>
+<area shape="rect" id="node7" href="$class_quadrato.html#a3388b2d66cc794258707674f20766a7f" title="Restituisce la posizione Y in cui si trova il quadrato. " alt="" coords="609,107,739,133"/>
+<area shape="rect" id="node9" href="$class_quadrato.html#a59a95eee3790a91a574ac018208b6044" title="Restituisce la posizione X in cui si trova il quadrato. " alt="" coords="611,157,737,184"/>
+</map>

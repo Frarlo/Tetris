@@ -1,0 +1,7 @@
+<map id="trasla" name="trasla">
+<area shape="rect" id="node2" href="$class_forma.html#a91512f90dd45468908f3be7f7bce667d" title="Ruota, se possibile, la forma in senso orario. " alt="" coords="161,56,250,83"/>
+<area shape="rect" id="node4" href="$class_schermata_di_gioco.html#a0ca2148e5af6d14c3d5720c9233acf28" title="Gestisce l&#39;input dell&#39;utente. " alt="" coords="576,81,753,108"/>
+<area shape="rect" id="node5" href="$class_schermata_di_gioco.html#a78a1909c840492ad7d4dc0c9f078bb9f" title="Sposta la figura attiva verso il basso. " alt="" coords="108,157,303,184"/>
+<area shape="rect" id="node3" href="$class_forma.html#a013c160470de32bb8e70fad0b1bcf312" title="Ruota, se possibile, la forma in senso anti&#45;orario. " alt="" coords="392,5,487,32"/>
+<area shape="rect" id="node6" href="$class_schermata_di_gioco.html#adf629764830f4b141f55b887a2619127" title="Gestisce la forma attiva(creazione e gravità) e il punteggio. " alt="" coords="351,208,528,235"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Input" name="Input">
+<area shape="rect" id="node2" href="$class_input_random.html" title="Classe che genera un input randomico. " alt="" coords="5,255,107,347"/>
+<area shape="rect" id="node3" href="$class_input_tastiera.html" title="Legge l&#39;input dell&#39;utente da tastiera. " alt="" coords="131,241,247,362"/>
+<area shape="rect" id="node4" href="$class_input_u_s_b.html" title="Classe che si occupa della lettura dell&#39;input da una porta usb. " alt="" coords="272,233,373,369"/>
+</map>

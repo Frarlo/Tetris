@@ -1,0 +1,6 @@
+<map id="trasla" name="trasla">
+<area shape="rect" id="node2" href="$class_campo_di_gioco.html#a9ebbd1096f4b8af848ba815914efdc42" title="Cancella la riga data. " alt="" coords="108,13,295,39"/>
+<area shape="rect" id="node5" href="$class_forma.html#a16d90b6cb61d494854eeb5362ab3d2ad" title="Trasla, se possibile, ogni singolo quadrato della traslazione con indice associato. " alt="" coords="154,63,249,90"/>
+<area shape="rect" id="node3" href="$class_campo_di_gioco.html#ac116ef833b41befd54ef7cd17ea4a28b" title="Cancella le righe complete e ne ritorna il numero. " alt="" coords="343,5,537,47"/>
+<area shape="rect" id="node4" href="$class_schermata_di_gioco.html#adf629764830f4b141f55b887a2619127" title="Gestisce la forma attiva(creazione e gravità) e il punteggio. " alt="" coords="585,13,763,39"/>
+</map>

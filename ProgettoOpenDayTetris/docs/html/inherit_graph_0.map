@@ -1,0 +1,10 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$interface_disegnabile.html" title="Interfaccia che rappresenta un oggetto in grado di esser disegnato in un piano cartesiano con origine..." alt="" coords="5,81,95,108"/>
+<area shape="rect" id="node2" href="$class_campo_di_gioco.html" title="Classe che gestisce il campo di gioco, tenendo traccia di tutti i quadrati e della forma attiva..." alt="" coords="143,5,252,32"/>
+<area shape="rect" id="node3" href="$class_forma.html" title="Classe che rappresenta una forma. " alt="" coords="168,56,227,83"/>
+<area shape="rect" id="node4" href="$class_quadrato.html" title="Classe rappresenta un quadrato che compone una forma. " alt="" coords="160,107,235,133"/>
+<area shape="rect" id="node5" href="$class_schermata.html" title="Classe base per oggetti che sono in grado di disegnare e gestire un&#39;intera schermata di gioco che occ..." alt="" coords="155,157,240,184"/>
+<area shape="rect" id="node6" href="$class_schermata_di_gioco.html" title="Classe che disegna e gestisce una sessioen di gioco vera e propria. " alt="" coords="308,107,439,133"/>
+<area shape="rect" id="node7" href="$class_schermata_game_over.html" title="Classe che disegna e gestisce la schermata di fine gioco. " alt="" coords="300,157,447,184"/>
+<area shape="rect" id="node8" href="$class_schermata_iniziale.html" title="Classe che disegna e gestisce la schermata di inizio gioco. " alt="" coords="311,208,436,235"/>
+</map>

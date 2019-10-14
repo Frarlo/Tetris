@@ -1,0 +1,8 @@
+<map id="fill" name="fill">
+<area shape="rect" id="node2" href="$class_campo_di_gioco.html#a56c5cf8a568cff737ff95520cbe6b405" title="Disegna il campo di gioco. " alt="" coords="100,5,240,32"/>
+<area shape="rect" id="node3" href="$class_schermata_di_gioco.html#a56c5cf8a568cff737ff95520cbe6b405" title="Disegna l&#39;interfaccia di gioco. " alt="" coords="296,56,459,83"/>
+<area shape="rect" id="node4" href="$class_schermata_game_over.html#a56c5cf8a568cff737ff95520cbe6b405" title="Disegna la schermata di Game Over. " alt="" coords="507,81,684,108"/>
+<area shape="rect" id="node5" href="$_progetto_open_day_tetris_8pde.html#a56c5cf8a568cff737ff95520cbe6b405" title="Disegna la schermata corrente e gestisce la logica di gioco. " alt="" coords="145,157,195,184"/>
+<area shape="rect" id="node6" href="$class_quadrato.html#a56c5cf8a568cff737ff95520cbe6b405" title="Disegna il Quadrato. " alt="" coords="117,208,223,235"/>
+<area shape="rect" id="node7" href="$class_schermata_iniziale.html#a56c5cf8a568cff737ff95520cbe6b405" title="Disegna il menu iniziale di gioco. " alt="" coords="92,259,248,285"/>
+</map>

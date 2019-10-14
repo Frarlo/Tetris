@@ -1,0 +1,6 @@
+<map id="Forma" name="Forma">
+<area shape="rect" id="node2" href="$class_forma.html#a0d26142eafcbe1aa6db99ff9c87c0371" title="Trova il quadrato perno della figura. " alt="" coords="112,31,195,57"/>
+<area shape="rect" id="node3" href="$class_quadrato.html#ac6e38df6c71bd6941b281b35cab4b9c0" title="Restituisce la distanza tra due quadrati. " alt="" coords="243,31,387,57"/>
+<area shape="rect" id="node4" href="$class_quadrato.html#a59a95eee3790a91a574ac018208b6044" title="Restituisce la posizione X in cui si trova il quadrato. " alt="" coords="436,5,563,32"/>
+<area shape="rect" id="node5" href="$class_quadrato.html#a3388b2d66cc794258707674f20766a7f" title="Restituisce la posizione Y in cui si trova il quadrato. " alt="" coords="435,68,564,95"/>
+</map>

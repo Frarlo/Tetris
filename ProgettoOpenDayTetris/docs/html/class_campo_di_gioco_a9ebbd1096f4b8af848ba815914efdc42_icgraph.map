@@ -1,0 +1,4 @@
+<map id="cancellaRiga" name="cancellaRiga">
+<area shape="rect" id="node2" href="$class_campo_di_gioco.html#ac116ef833b41befd54ef7cd17ea4a28b" title="Cancella le righe complete e ne ritorna il numero. " alt="" coords="149,5,308,32"/>
+<area shape="rect" id="node3" href="$class_schermata_di_gioco.html#adf629764830f4b141f55b887a2619127" title="Gestisce la forma attiva(creazione e gravità) e il punteggio. " alt="" coords="356,5,533,32"/>
+</map>

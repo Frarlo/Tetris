@@ -1,0 +1,11 @@
+<map id="puoTraslare" name="puoTraslare">
+<area shape="rect" id="node2" href="$class_quadrato.html#ad04937168b4d4cf425a830d6f5bf39be" title=" Restituisce la larghezza del quadrato " alt="" coords="183,5,283,32"/>
+<area shape="rect" id="node3" href="$class_quadrato.html#abe62696ba2637039988810f4407a1d57" title="Restituisce l&#39;altezza del quadrato. " alt="" coords="191,56,275,83"/>
+<area shape="rect" id="node4" href="$class_campo_di_gioco.html#aeed50d25a45a9f8950d50b38f9de8981" title="Verifica che la posizione data sia valida. " alt="" coords="143,107,323,149"/>
+<area shape="rect" id="node5" href="$class_campo_di_gioco.html#ad04937168b4d4cf425a830d6f5bf39be" title="Restituisce la larghezza del campo di gioco. " alt="" coords="371,39,561,65"/>
+<area shape="rect" id="node6" href="$class_campo_di_gioco.html#abe62696ba2637039988810f4407a1d57" title="Restituisce l&#39;altezza del campo di gioco. " alt="" coords="379,89,553,116"/>
+<area shape="rect" id="node7" href="$class_campo_di_gioco.html#a29109d0332e31289a05c4e4d99d48e07" title="Resituisce la riga in cui è contenuto il quadrato dato. " alt="" coords="387,140,545,167"/>
+<area shape="rect" id="node9" href="$class_campo_di_gioco.html#a3a53f7c8b042e3db726e0b869cac2a4c" title="Resituisce la colonna in cui è contenuto il quadrato dato. " alt="" coords="377,191,555,217"/>
+<area shape="rect" id="node8" href="$class_quadrato.html#a3388b2d66cc794258707674f20766a7f" title="Restituisce la posizione Y in cui si trova il quadrato. " alt="" coords="609,140,681,167"/>
+<area shape="rect" id="node10" href="$class_quadrato.html#a59a95eee3790a91a574ac018208b6044" title="Restituisce la posizione X in cui si trova il quadrato. " alt="" coords="610,191,681,217"/>
+</map>

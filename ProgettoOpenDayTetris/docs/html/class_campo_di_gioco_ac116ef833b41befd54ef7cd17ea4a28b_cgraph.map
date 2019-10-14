@@ -1,0 +1,9 @@
+<map id="cancellaRigheComplete" name="cancellaRigheComplete">
+<area shape="rect" id="node2" href="$class_campo_di_gioco.html#a074b6a3364b60ef12bdb09095cedcf7a" title="Restituisce il numero di righe del campo di gioco. " alt="" coords="243,5,294,32"/>
+<area shape="rect" id="node3" href="$class_campo_di_gioco.html#a014f0eabe8cd71487aa05645b754bbd9" title="Verifica se la riga data è completa. " alt="" coords="212,56,325,83"/>
+<area shape="rect" id="node5" href="$class_campo_di_gioco.html#a9ebbd1096f4b8af848ba815914efdc42" title="Cancella la riga data. " alt="" coords="221,107,317,133"/>
+<area shape="rect" id="node4" href="$class_campo_di_gioco.html#a3a6c62f37cc43447d0c2e77e1ba2a9a3" title="Restituisce il numero di colonne del campo di gioco. " alt="" coords="395,56,462,83"/>
+<area shape="rect" id="node6" href="$class_quadrato.html#acd594b626c969467a61be59d3f6f02e2" title="Trasla il quadrato. " alt="" coords="373,107,484,133"/>
+<area shape="rect" id="node7" href="$class_quadrato.html#ad04937168b4d4cf425a830d6f5bf39be" title=" Restituisce la larghezza del quadrato " alt="" coords="532,81,689,108"/>
+<area shape="rect" id="node8" href="$class_quadrato.html#abe62696ba2637039988810f4407a1d57" title="Restituisce l&#39;altezza del quadrato. " alt="" coords="540,132,681,159"/>
+</map>

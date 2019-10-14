@@ -1,0 +1,4 @@
+<map id="draw" name="draw">
+<area shape="rect" id="node2" href="$class_schermata_di_gioco.html#a56c5cf8a568cff737ff95520cbe6b405" title="Disegna l&#39;interfaccia di gioco. " alt="" coords="103,5,265,32"/>
+<area shape="rect" id="node3" href="$class_schermata_game_over.html#a56c5cf8a568cff737ff95520cbe6b405" title="Disegna la schermata di Game Over. " alt="" coords="313,5,491,32"/>
+</map>

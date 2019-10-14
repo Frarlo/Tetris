@@ -1,0 +1,8 @@
+<map id="colonne" name="colonne">
+<area shape="rect" id="node2" href="$class_campo_di_gioco.html#a5b1c65c9f03f88d4a7e5708770c9638a" title="Costruttore vuoto. " alt="" coords="122,5,231,32"/>
+<area shape="rect" id="node3" href="$class_campo_di_gioco.html#a014f0eabe8cd71487aa05645b754bbd9" title="Verifica se la riga data è completa. " alt="" coords="120,56,233,83"/>
+<area shape="rect" id="node6" href="$class_campo_di_gioco.html#a9ebbd1096f4b8af848ba815914efdc42" title="Cancella la riga data. " alt="" coords="129,107,225,133"/>
+<area shape="rect" id="node7" href="$class_campo_di_gioco.html#afd5eb69ed1205339b17d2248db10ed06" title="Restituisce se è stata raggiunta la prima riga. " alt="" coords="283,157,438,184"/>
+<area shape="rect" id="node4" href="$class_campo_di_gioco.html#ac116ef833b41befd54ef7cd17ea4a28b" title="Cancella le righe complete e ne ritorna il numero. " alt="" coords="281,107,440,133"/>
+<area shape="rect" id="node5" href="$class_schermata_di_gioco.html#adf629764830f4b141f55b887a2619127" title="Gestisce la forma attiva(creazione e gravità) e il punteggio. " alt="" coords="488,132,665,159"/>
+</map>

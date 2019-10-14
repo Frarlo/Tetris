@@ -1,0 +1,15 @@
+<map id="getAltezza" name="getAltezza">
+<area shape="rect" id="node2" href="$class_forma.html#a91512f90dd45468908f3be7f7bce667d" title="Ruota, se possibile, la forma in senso orario. " alt="" coords="137,5,268,32"/>
+<area shape="rect" id="node5" href="$class_quadrato.html#a56c5cf8a568cff737ff95520cbe6b405" title="Disegna il Quadrato. " alt="" coords="178,56,227,83"/>
+<area shape="rect" id="node6" href="$class_quadrato.html#a04ced26f8ad3c5121a4e6a7cd587325d" title="Controlla se sia possibile traslare il quadrato. " alt="" coords="158,107,247,133"/>
+<area shape="rect" id="node8" href="$class_quadrato.html#acd594b626c969467a61be59d3f6f02e2" title="Trasla il quadrato. " alt="" coords="175,157,230,184"/>
+<area shape="rect" id="node12" href="$class_quadrato.html#aa0156523a88049eb9bea7163b4d958de" title="Restituisce la coordinata Y massima del quadrato. " alt="" coords="154,208,251,235"/>
+<area shape="rect" id="node13" href="$class_quadrato.html#a4ee081b0d34af78f55ae7929fa3d7d46" title="Restituisce la coordinata Y del centro del quadrato. " alt="" coords="159,259,246,285"/>
+<area shape="rect" id="node14" href="$class_quadrato.html#ad146fa8579a5f8a876c4688cc5a68520" title="Restituisce una descrizione dell&#39;oggetto. " alt="" coords="169,309,236,336"/>
+<area shape="rect" id="node3" href="$class_forma.html#a013c160470de32bb8e70fad0b1bcf312" title="Ruota, se possibile, la forma in senso anti&#45;orario. " alt="" coords="341,5,477,32"/>
+<area shape="rect" id="node4" href="$class_schermata_di_gioco.html#a0ca2148e5af6d14c3d5720c9233acf28" title="Gestisce l&#39;input dell&#39;utente. " alt="" coords="559,31,737,57"/>
+<area shape="rect" id="node7" href="$class_forma.html#a16d90b6cb61d494854eeb5362ab3d2ad" title="Trasla, se possibile, ogni singolo quadrato della traslazione con indice associato. " alt="" coords="362,107,457,133"/>
+<area shape="rect" id="node9" href="$class_campo_di_gioco.html#a9ebbd1096f4b8af848ba815914efdc42" title="Cancella la riga data. " alt="" coords="316,157,503,184"/>
+<area shape="rect" id="node10" href="$class_campo_di_gioco.html#ac116ef833b41befd54ef7cd17ea4a28b" title="Cancella le righe complete e ne ritorna il numero. " alt="" coords="551,150,745,191"/>
+<area shape="rect" id="node11" href="$class_schermata_di_gioco.html#adf629764830f4b141f55b887a2619127" title="Gestisce la forma attiva(creazione e gravità) e il punteggio. " alt="" coords="793,157,971,184"/>
+</map>

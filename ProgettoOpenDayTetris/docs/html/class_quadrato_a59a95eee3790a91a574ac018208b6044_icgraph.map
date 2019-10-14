@@ -1,0 +1,18 @@
+<map id="getPosX" name="getPosX">
+<area shape="rect" id="node2" href="$class_campo_di_gioco.html#a3a53f7c8b042e3db726e0b869cac2a4c" title="Resituisce la colonna in cui è contenuto il quadrato dato. " alt="" coords="124,71,303,98"/>
+<area shape="rect" id="node10" href="$class_forma.html#a91512f90dd45468908f3be7f7bce667d" title="Ruota, se possibile, la forma in senso orario. " alt="" coords="375,122,506,149"/>
+<area shape="rect" id="node12" href="$class_forma.html#a0d26142eafcbe1aa6db99ff9c87c0371" title="Trova il quadrato perno della figura. " alt="" coords="379,223,503,250"/>
+<area shape="rect" id="node14" href="$class_quadrato.html#ac6e38df6c71bd6941b281b35cab4b9c0" title="Restituisce la distanza tra due quadrati. " alt="" coords="170,223,257,250"/>
+<area shape="rect" id="node15" href="$class_quadrato.html#a6e848b33085718b9e4e01d93a037c9c2" title="Restituisce la coordinata X massima del quadrato. " alt="" coords="166,274,261,301"/>
+<area shape="rect" id="node16" href="$class_quadrato.html#a12e2d775b9b7fb4f344d103a41dec841" title="Restituisce la coordinata X del centro del quadrato. " alt="" coords="171,325,256,351"/>
+<area shape="rect" id="node17" href="$class_quadrato.html#ad146fa8579a5f8a876c4688cc5a68520" title="Restituisce una descrizione dell&#39;oggetto. " alt="" coords="180,375,247,402"/>
+<area shape="rect" id="node3" href="$class_campo_di_gioco.html#aeed50d25a45a9f8950d50b38f9de8981" title="Verifica che la posizione data sia valida. " alt="" coords="351,5,531,47"/>
+<area shape="rect" id="node6" href="$class_campo_di_gioco.html#a09a3f362609292584cad753e34ac9943" title="Disattiva la forma attiva corrente. " alt="" coords="361,71,521,98"/>
+<area shape="rect" id="node4" href="$class_quadrato.html#a04ced26f8ad3c5121a4e6a7cd587325d" title="Controlla se sia possibile traslare il quadrato. " alt="" coords="631,13,721,39"/>
+<area shape="rect" id="node5" href="$class_forma.html#a16d90b6cb61d494854eeb5362ab3d2ad" title="Trasla, se possibile, ogni singolo quadrato della traslazione con indice associato. " alt="" coords="863,13,957,39"/>
+<area shape="rect" id="node7" href="$class_schermata_di_gioco.html#a78a1909c840492ad7d4dc0c9f078bb9f" title="Sposta la figura attiva verso il basso. " alt="" coords="579,71,773,98"/>
+<area shape="rect" id="node8" href="$class_schermata_di_gioco.html#adf629764830f4b141f55b887a2619127" title="Gestisce la forma attiva(creazione e gravità) e il punteggio. " alt="" coords="821,71,999,98"/>
+<area shape="rect" id="node9" href="$class_schermata_di_gioco.html#a0ca2148e5af6d14c3d5720c9233acf28" title="Gestisce l&#39;input dell&#39;utente. " alt="" coords="821,122,999,149"/>
+<area shape="rect" id="node11" href="$class_forma.html#a013c160470de32bb8e70fad0b1bcf312" title="Ruota, se possibile, la forma in senso anti&#45;orario. " alt="" coords="608,173,744,199"/>
+<area shape="rect" id="node13" href="$class_forma.html#a4562cd4238f1133d8674c46d41dd6c1e" title="Costruisce una forma con i parametri dati. " alt="" coords="626,223,726,250"/>
+</map>

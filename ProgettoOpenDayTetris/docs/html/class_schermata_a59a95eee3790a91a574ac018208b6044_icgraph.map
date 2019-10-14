@@ -1,0 +1,4 @@
+<map id="getPosX" name="getPosX">
+<area shape="rect" id="node2" href="$class_schermata.html#a12e2d775b9b7fb4f344d103a41dec841" title="Restituisce la coordinata X del centro della finestra. " alt="" coords="129,5,214,32"/>
+<area shape="rect" id="node3" href="$class_schermata.html#a6e848b33085718b9e4e01d93a037c9c2" title="Restituisce la larghezza della finestra. " alt="" coords="124,56,219,83"/>
+</map>

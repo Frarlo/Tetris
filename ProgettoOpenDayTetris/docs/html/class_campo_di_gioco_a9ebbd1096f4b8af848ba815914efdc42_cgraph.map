@@ -1,0 +1,6 @@
+<map id="cancellaRiga" name="cancellaRiga">
+<area shape="rect" id="node2" href="$class_campo_di_gioco.html#a3a6c62f37cc43447d0c2e77e1ba2a9a3" title="Restituisce il numero di colonne del campo di gioco. " alt="" coords="171,5,238,32"/>
+<area shape="rect" id="node3" href="$class_quadrato.html#acd594b626c969467a61be59d3f6f02e2" title="Trasla il quadrato. " alt="" coords="149,56,260,83"/>
+<area shape="rect" id="node4" href="$class_quadrato.html#ad04937168b4d4cf425a830d6f5bf39be" title=" Restituisce la larghezza del quadrato " alt="" coords="308,31,465,57"/>
+<area shape="rect" id="node5" href="$class_quadrato.html#abe62696ba2637039988810f4407a1d57" title="Restituisce l&#39;altezza del quadrato. " alt="" coords="316,81,457,108"/>
+</map>

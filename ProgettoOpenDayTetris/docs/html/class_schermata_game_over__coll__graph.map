@@ -1,0 +1,9 @@
+<map id="SchermataGameOver" name="SchermataGameOver">
+<area shape="rect" id="node2" href="$class_schermata.html" title="Classe base per oggetti che sono in grado di disegnare e gestire un&#39;intera schermata di gioco che occ..." alt="" coords="9,343,129,553"/>
+<area shape="rect" id="node4" href="$class_schermata_di_gioco.html" title="Classe che disegna e gestisce una sessioen di gioco vera e propria. " alt="" coords="96,777,247,927"/>
+<area shape="rect" id="node3" href="$interface_disegnabile.html" title="Interfaccia che rappresenta un oggetto in grado di esser disegnato in un piano cartesiano con origine..." alt="" coords="417,5,537,200"/>
+<area shape="rect" id="node5" href="$class_campo_di_gioco.html" title="Classe che gestisce il campo di gioco, tenendo traccia di tutti i quadrati e della forma attiva..." alt="" coords="497,277,675,619"/>
+<area shape="rect" id="node6" href="$class_forma.html" title="Classe che rappresenta una forma. " alt="" coords="431,1085,551,1397"/>
+<area shape="rect" id="node9" href="$class_quadrato.html" title="Classe rappresenta un quadrato che compone una forma. " alt="" coords="589,696,709,1008"/>
+<area shape="rect" id="node11" href="$class_giocatore.html" title="Classe contenitore per il punteggio conseguito da un giocatore. " alt="" coords="153,358,272,538"/>
+</map>

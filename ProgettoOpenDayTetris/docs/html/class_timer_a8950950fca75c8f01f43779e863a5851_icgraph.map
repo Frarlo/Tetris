@@ -1,0 +1,5 @@
+<map id="elapsedMillis" name="elapsedMillis">
+<area shape="rect" id="node2" href="$_progetto_open_day_tetris_8pde.html#a56c5cf8a568cff737ff95520cbe6b405" title="Disegna la schermata corrente e gestisce la logica di gioco. " alt="" coords="169,5,219,32"/>
+<area shape="rect" id="node3" href="$class_timer.html#ab782202d331104c6461f775d9baea31a" title="Restituisce se è passato il tempo richiesto dall&#39;ultimo reset. " alt="" coords="151,56,237,83"/>
+<area shape="rect" id="node4" href="$class_input_random.html#ab992da5aed740615439a4758aca163b2" title="Ritorna un input randomico. " alt="" coords="285,56,447,83"/>
+</map>

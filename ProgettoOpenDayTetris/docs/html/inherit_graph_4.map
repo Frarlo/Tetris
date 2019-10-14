@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$interface_input.html" title="Interfaccia base per classi che leggono l&#39;input dell&#39;utente. " alt="" coords="5,56,56,83"/>
+<area shape="rect" id="node2" href="$class_input_random.html" title="Classe che genera un input randomico. " alt="" coords="104,5,203,32"/>
+<area shape="rect" id="node3" href="$class_input_tastiera.html" title="Legge l&#39;input dell&#39;utente da tastiera. " alt="" coords="105,56,201,83"/>
+<area shape="rect" id="node4" href="$class_input_u_s_b.html" title="Classe che si occupa della lettura dell&#39;input da una porta usb. " alt="" coords="115,107,192,133"/>
+</map>

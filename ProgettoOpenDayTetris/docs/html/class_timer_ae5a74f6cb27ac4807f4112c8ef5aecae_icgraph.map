@@ -1,0 +1,8 @@
+<map id="currentMillis" name="currentMillis">
+<area shape="rect" id="node2" href="$_progetto_open_day_tetris_8pde.html#a56c5cf8a568cff737ff95520cbe6b405" title="Disegna la schermata corrente e gestisce la logica di gioco. " alt="" coords="309,107,359,133"/>
+<area shape="rect" id="node3" href="$class_timer.html#ad20897c5c8bd47f5d4005989bead0e55" title="Resetta il timer. " alt="" coords="169,56,219,83"/>
+<area shape="rect" id="node6" href="$class_timer.html#a8950950fca75c8f01f43779e863a5851" title="Restituisce i millisecondi passati dall&#39;ultimo reset. " alt="" coords="145,157,243,184"/>
+<area shape="rect" id="node4" href="$class_input_random.html#ab992da5aed740615439a4758aca163b2" title="Ritorna un input randomico. " alt="" coords="425,107,587,133"/>
+<area shape="rect" id="node5" href="$class_timer.html#a6a8bc5014802d569f6d01c4f36121a81" title="Crea un nuovo timer e lo resetta. " alt="" coords="307,5,361,32"/>
+<area shape="rect" id="node7" href="$class_timer.html#ab782202d331104c6461f775d9baea31a" title="Restituisce se è passato il tempo richiesto dall&#39;ultimo reset. " alt="" coords="291,157,377,184"/>
+</map>

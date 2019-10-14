@@ -1,0 +1,15 @@
+<map id="trasla" name="trasla">
+<area shape="rect" id="node2" href="$class_quadrato.html#a04ced26f8ad3c5121a4e6a7cd587325d" title="Controlla se sia possibile traslare il quadrato. " alt="" coords="134,56,281,83"/>
+<area shape="rect" id="node12" href="$class_forma_1_1_traslazione.html#a1b08e6a7481d6f33b3eb386081d0b6d1" title="Restituisce il numero di righe di cui traslare l&#39;oggetto. " alt="" coords="115,107,299,133"/>
+<area shape="rect" id="node13" href="$class_forma_1_1_traslazione.html#a7abd6f1367b60b4cd17493cbb1adf0c1" title="Restituisce il numero di colonne di cui traslare l&#39;oggetto. " alt="" coords="108,157,307,184"/>
+<area shape="rect" id="node14" href="$class_quadrato.html#acd594b626c969467a61be59d3f6f02e2" title="Trasla il quadrato. " alt="" coords="152,5,263,32"/>
+<area shape="rect" id="node3" href="$class_quadrato.html#ad04937168b4d4cf425a830d6f5bf39be" title=" Restituisce la larghezza del quadrato " alt="" coords="366,56,523,83"/>
+<area shape="rect" id="node4" href="$class_quadrato.html#abe62696ba2637039988810f4407a1d57" title="Restituisce l&#39;altezza del quadrato. " alt="" coords="374,5,515,32"/>
+<area shape="rect" id="node5" href="$class_campo_di_gioco.html#aeed50d25a45a9f8950d50b38f9de8981" title="Verifica che la posizione data sia valida. " alt="" coords="355,107,535,149"/>
+<area shape="rect" id="node6" href="$class_campo_di_gioco.html#ad04937168b4d4cf425a830d6f5bf39be" title="Restituisce la larghezza del campo di gioco. " alt="" coords="583,39,773,65"/>
+<area shape="rect" id="node7" href="$class_campo_di_gioco.html#abe62696ba2637039988810f4407a1d57" title="Restituisce l&#39;altezza del campo di gioco. " alt="" coords="591,89,765,116"/>
+<area shape="rect" id="node8" href="$class_campo_di_gioco.html#a29109d0332e31289a05c4e4d99d48e07" title="Resituisce la riga in cui è contenuto il quadrato dato. " alt="" coords="599,140,757,167"/>
+<area shape="rect" id="node10" href="$class_campo_di_gioco.html#a3a53f7c8b042e3db726e0b869cac2a4c" title="Resituisce la colonna in cui è contenuto il quadrato dato. " alt="" coords="589,191,767,217"/>
+<area shape="rect" id="node9" href="$class_quadrato.html#a3388b2d66cc794258707674f20766a7f" title="Restituisce la posizione Y in cui si trova il quadrato. " alt="" coords="821,140,951,167"/>
+<area shape="rect" id="node11" href="$class_quadrato.html#a59a95eee3790a91a574ac018208b6044" title="Restituisce la posizione X in cui si trova il quadrato. " alt="" coords="823,191,949,217"/>
+</map>

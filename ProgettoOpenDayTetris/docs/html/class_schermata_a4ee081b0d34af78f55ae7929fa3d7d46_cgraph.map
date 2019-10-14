@@ -1,0 +1,4 @@
+<map id="getCentroY" name="getCentroY">
+<area shape="rect" id="node2" href="$class_schermata.html#a3388b2d66cc794258707674f20766a7f" title="Restituisce la coordinata Y dell&#39;origine, ovvero 0. " alt="" coords="146,5,218,32"/>
+<area shape="rect" id="node3" href="$class_schermata.html#abe62696ba2637039988810f4407a1d57" title="Restituisce l&#39;altezza della finestra. " alt="" coords="140,56,224,83"/>
+</map>

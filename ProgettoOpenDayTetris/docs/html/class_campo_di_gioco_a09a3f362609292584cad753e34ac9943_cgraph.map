@@ -1,0 +1,7 @@
+<map id="disattiva" name="disattiva">
+<area shape="rect" id="node2" href="$class_forma.html#a90ea8b524868113624602452b3a27d50" title="Ritorna una lista non modificabile dei quadrati che compongono questa forma. " alt="" coords="123,5,253,32"/>
+<area shape="rect" id="node3" href="$class_campo_di_gioco.html#a29109d0332e31289a05c4e4d99d48e07" title="Resituisce la riga in cui è contenuto il quadrato dato. " alt="" coords="155,56,221,83"/>
+<area shape="rect" id="node5" href="$class_campo_di_gioco.html#a3a53f7c8b042e3db726e0b869cac2a4c" title="Resituisce la colonna in cui è contenuto il quadrato dato. " alt="" coords="145,107,231,133"/>
+<area shape="rect" id="node4" href="$class_quadrato.html#a3388b2d66cc794258707674f20766a7f" title="Restituisce la posizione Y in cui si trova il quadrato. " alt="" coords="301,56,431,83"/>
+<area shape="rect" id="node6" href="$class_quadrato.html#a59a95eee3790a91a574ac018208b6044" title="Restituisce la posizione X in cui si trova il quadrato. " alt="" coords="303,107,429,133"/>
+</map>

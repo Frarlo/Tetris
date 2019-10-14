@@ -1,0 +1,9 @@
+<map id="Disegnabile" name="Disegnabile">
+<area shape="rect" id="node2" href="$class_campo_di_gioco.html" title="Classe che gestisce il campo di gioco, tenendo traccia di tutti i quadrati e della forma attiva..." alt="" coords="5,248,184,663"/>
+<area shape="rect" id="node3" href="$class_forma.html" title="Classe che rappresenta una forma. " alt="" coords="208,277,339,633"/>
+<area shape="rect" id="node4" href="$class_quadrato.html" title="Classe rappresenta un quadrato che compone una forma. " alt="" coords="363,292,483,619"/>
+<area shape="rect" id="node5" href="$class_schermata.html" title="Classe base per oggetti che sono in grado di disegnare e gestire un&#39;intera schermata di gioco che occ..." alt="" coords="507,351,627,560"/>
+<area shape="rect" id="node6" href="$class_schermata_di_gioco.html" title="Classe che disegna e gestisce una sessioen di gioco vera e propria. " alt="" coords="309,711,459,891"/>
+<area shape="rect" id="node7" href="$class_schermata_game_over.html" title="Classe che disegna e gestisce la schermata di fine gioco. " alt="" coords="483,740,650,861"/>
+<area shape="rect" id="node8" href="$class_schermata_iniziale.html" title="Classe che disegna e gestisce la schermata di inizio gioco. " alt="" coords="675,725,853,876"/>
+</map>

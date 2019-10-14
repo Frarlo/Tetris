@@ -1,0 +1,4 @@
+<map id="SchermataIniziale" name="SchermataIniziale">
+<area shape="rect" id="node2" href="$class_schermata.html" title="Classe base per oggetti che sono in grado di disegnare e gestire un&#39;intera schermata di gioco che occ..." alt="" coords="35,248,155,457"/>
+<area shape="rect" id="node3" href="$interface_disegnabile.html" title="Interfaccia che rappresenta un oggetto in grado di esser disegnato in un piano cartesiano con origine..." alt="" coords="35,5,155,200"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="getMaxPosX" name="getMaxPosX">
+<area shape="rect" id="node2" href="$class_schermata.html#a59a95eee3790a91a574ac018208b6044" title="Restituisce la coordinata X dell&#39;origine, ovvero 0. " alt="" coords="163,5,233,32"/>
+<area shape="rect" id="node3" href="$class_schermata.html#ad04937168b4d4cf425a830d6f5bf39be" title="Restituisce la larghezza della finestra. " alt="" coords="148,56,248,83"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="getCentroX" name="getCentroX">
+<area shape="rect" id="node2" href="$class_forma.html#a59a95eee3790a91a574ac018208b6044" title="Restituisce la posizione X del quadrato costruito attorno alla forma. " alt="" coords="299,5,369,32"/>
+<area shape="rect" id="node3" href="$class_forma.html#ad04937168b4d4cf425a830d6f5bf39be" title="Restituisce la larghezza del quadrato costruito attorno alla forma. " alt="" coords="139,56,239,83"/>
+<area shape="rect" id="node4" href="$class_forma.html#a6e848b33085718b9e4e01d93a037c9c2" title="Restituisce la posizione X massima del quadrato costruito attorno alla forma. " alt="" coords="287,56,381,83"/>
+</map>

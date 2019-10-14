@@ -1,0 +1,4 @@
+<map id="ruotaDestra" name="ruotaDestra">
+<area shape="rect" id="node2" href="$class_forma.html#a013c160470de32bb8e70fad0b1bcf312" title="Ruota, se possibile, la forma in senso anti&#45;orario. " alt="" coords="143,5,237,32"/>
+<area shape="rect" id="node3" href="$class_schermata_di_gioco.html#a0ca2148e5af6d14c3d5720c9233acf28" title="Gestisce l&#39;input dell&#39;utente. " alt="" coords="285,31,463,57"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="getPunteggio" name="getPunteggio">
+<area shape="rect" id="node2" href="$class_schermata_di_gioco.html#a56c5cf8a568cff737ff95520cbe6b405" title="Disegna l&#39;interfaccia di gioco. " alt="" coords="159,5,322,32"/>
+<area shape="rect" id="node4" href="$class_schermata_di_gioco.html#adf629764830f4b141f55b887a2619127" title="Gestisce la forma attiva(creazione e gravità) e il punteggio. " alt="" coords="152,56,329,83"/>
+<area shape="rect" id="node3" href="$class_schermata_game_over.html#a56c5cf8a568cff737ff95520cbe6b405" title="Disegna la schermata di Game Over. " alt="" coords="377,5,555,32"/>
+</map>

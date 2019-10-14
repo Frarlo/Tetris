@@ -1,0 +1,4 @@
+<map id="isPosizioneValida" name="isPosizioneValida">
+<area shape="rect" id="node2" href="$class_quadrato.html#a04ced26f8ad3c5121a4e6a7cd587325d" title="Controlla se sia possibile traslare il quadrato. " alt="" coords="179,5,325,32"/>
+<area shape="rect" id="node3" href="$class_forma.html#a16d90b6cb61d494854eeb5362ab3d2ad" title="Trasla, se possibile, ogni singolo quadrato della traslazione con indice associato. " alt="" coords="373,5,468,32"/>
+</map>

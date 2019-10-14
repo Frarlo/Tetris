@@ -1,0 +1,4 @@
+<map id="InputTastiera" name="InputTastiera">
+<area shape="rect" id="node2" href="$interface_input.html" title="Interfaccia base per classi che leggono l&#39;input dell&#39;utente. " alt="" coords="5,153,157,333"/>
+<area shape="rect" id="node5" href="$class_input_tastiera_1_1_key.html" title="Oggetto che mette in correlazione il codice identificativo effettivo di un tasto con il corrispettivo..." alt="" coords="391,145,531,340"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="ruotaSinistra" name="ruotaSinistra">
+<area shape="rect" id="node2" href="$class_forma.html#a91512f90dd45468908f3be7f7bce667d" title="Ruota, se possibile, la forma in senso orario. " alt="" coords="148,107,237,133"/>
+<area shape="rect" id="node3" href="$class_quadrato.html#a59a95eee3790a91a574ac018208b6044" title="Restituisce la posizione X in cui si trova il quadrato. " alt="" coords="301,5,427,32"/>
+<area shape="rect" id="node4" href="$class_quadrato.html#ad04937168b4d4cf425a830d6f5bf39be" title=" Restituisce la larghezza del quadrato " alt="" coords="285,56,443,83"/>
+<area shape="rect" id="node5" href="$class_quadrato.html#a3388b2d66cc794258707674f20766a7f" title="Restituisce la posizione Y in cui si trova il quadrato. " alt="" coords="299,107,429,133"/>
+<area shape="rect" id="node6" href="$class_quadrato.html#abe62696ba2637039988810f4407a1d57" title="Restituisce l&#39;altezza del quadrato. " alt="" coords="293,157,435,184"/>
+<area shape="rect" id="node7" href="$class_forma.html#a347c753edd29439b88a7ece4a123b1d9" title="Trasla, se possibile, tutti i quadrati della figura di quanto richiesto. " alt="" coords="337,208,391,235"/>
+</map>

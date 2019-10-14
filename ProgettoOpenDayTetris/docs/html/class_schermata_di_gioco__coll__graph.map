@@ -1,0 +1,8 @@
+<map id="SchermataDiGioco" name="SchermataDiGioco">
+<area shape="rect" id="node2" href="$class_schermata.html" title="Classe base per oggetti che sono in grado di disegnare e gestire un&#39;intera schermata di gioco che occ..." alt="" coords="119,343,239,553"/>
+<area shape="rect" id="node3" href="$interface_disegnabile.html" title="Interfaccia che rappresenta un oggetto in grado di esser disegnato in un piano cartesiano con origine..." alt="" coords="278,5,398,200"/>
+<area shape="rect" id="node4" href="$class_campo_di_gioco.html" title="Classe che gestisce il campo di gioco, tenendo traccia di tutti i quadrati e della forma attiva..." alt="" coords="407,277,586,619"/>
+<area shape="rect" id="node5" href="$class_forma.html" title="Classe che rappresenta una forma. " alt="" coords="406,1085,526,1397"/>
+<area shape="rect" id="node8" href="$class_quadrato.html" title="Classe rappresenta un quadrato che compone una forma. " alt="" coords="563,696,683,1008"/>
+<area shape="rect" id="node10" href="$class_giocatore.html" title="Classe contenitore per il punteggio conseguito da un giocatore. " alt="" coords="264,358,382,538"/>
+</map>

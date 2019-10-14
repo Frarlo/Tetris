@@ -1,0 +1,25 @@
+var class_forma =
+[
+    [ "Traslazione", "class_forma_1_1_traslazione.html", "class_forma_1_1_traslazione" ],
+    [ "Forma", "class_forma.html#a82ef80ac3231af278dc8ba8183c399a5", null ],
+    [ "Forma", "class_forma.html#a4562cd4238f1133d8674c46d41dd6c1e", null ],
+    [ "draw", "class_forma.html#a56c5cf8a568cff737ff95520cbe6b405", null ],
+    [ "getAltezza", "class_forma.html#abe62696ba2637039988810f4407a1d57", null ],
+    [ "getCentroX", "class_forma.html#a12e2d775b9b7fb4f344d103a41dec841", null ],
+    [ "getCentroY", "class_forma.html#a4ee081b0d34af78f55ae7929fa3d7d46", null ],
+    [ "getLarghezza", "class_forma.html#ad04937168b4d4cf425a830d6f5bf39be", null ],
+    [ "getMaxPosX", "class_forma.html#a6e848b33085718b9e4e01d93a037c9c2", null ],
+    [ "getMaxPosY", "class_forma.html#aa0156523a88049eb9bea7163b4d958de", null ],
+    [ "getPosX", "class_forma.html#a59a95eee3790a91a574ac018208b6044", null ],
+    [ "getPosY", "class_forma.html#a3388b2d66cc794258707674f20766a7f", null ],
+    [ "getQuadrati", "class_forma.html#a90ea8b524868113624602452b3a27d50", null ],
+    [ "ruotaDestra", "class_forma.html#a91512f90dd45468908f3be7f7bce667d", null ],
+    [ "ruotaSinistra", "class_forma.html#a013c160470de32bb8e70fad0b1bcf312", null ],
+    [ "trasla", "class_forma.html#a347c753edd29439b88a7ece4a123b1d9", null ],
+    [ "trasla", "class_forma.html#a16d90b6cb61d494854eeb5362ab3d2ad", null ],
+    [ "trovaPerno", "class_forma.html#a0d26142eafcbe1aa6db99ff9c87c0371", null ],
+    [ "campo", "class_forma.html#affa43c1ea1bb19e6898a69edee0a57c2", null ],
+    [ "perno", "class_forma.html#a45aa39e325f64cff9e2c1506be0f7f0f", null ],
+    [ "quadrati", "class_forma.html#a3086bb9e5a71dc281a024966f6f89dca", null ],
+    [ "readOnlyQuadrati", "class_forma.html#a89d0fea2ca5f1cb35b4ae80a07a7339b", null ]
+];

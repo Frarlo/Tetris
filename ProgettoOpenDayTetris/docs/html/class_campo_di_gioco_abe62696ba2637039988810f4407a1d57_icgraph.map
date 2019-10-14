@@ -1,0 +1,10 @@
+<map id="getAltezza" name="getAltezza">
+<area shape="rect" id="node2" href="$class_campo_di_gioco.html#aeed50d25a45a9f8950d50b38f9de8981" title="Verifica che la posizione data sia valida. " alt="" coords="137,5,263,32"/>
+<area shape="rect" id="node5" href="$class_campo_di_gioco.html#a56c5cf8a568cff737ff95520cbe6b405" title="Disegna il campo di gioco. " alt="" coords="175,56,225,83"/>
+<area shape="rect" id="node8" href="$class_campo_di_gioco.html#aa0156523a88049eb9bea7163b4d958de" title="Restituisce l&#39;altezza della schermata. " alt="" coords="151,107,249,133"/>
+<area shape="rect" id="node9" href="$class_campo_di_gioco.html#a4ee081b0d34af78f55ae7929fa3d7d46" title="Restituisce l&#39;ordinata del centro del campo di gioco. " alt="" coords="157,157,243,184"/>
+<area shape="rect" id="node3" href="$class_quadrato.html#a04ced26f8ad3c5121a4e6a7cd587325d" title="Controlla se sia possibile traslare il quadrato. " alt="" coords="319,5,465,32"/>
+<area shape="rect" id="node4" href="$class_forma.html#a16d90b6cb61d494854eeb5362ab3d2ad" title="Trasla, se possibile, ogni singolo quadrato della traslazione con indice associato. " alt="" coords="563,5,657,32"/>
+<area shape="rect" id="node6" href="$class_schermata_di_gioco.html#a56c5cf8a568cff737ff95520cbe6b405" title="Disegna l&#39;interfaccia di gioco. " alt="" coords="311,107,473,133"/>
+<area shape="rect" id="node7" href="$class_schermata_game_over.html#a56c5cf8a568cff737ff95520cbe6b405" title="Disegna la schermata di Game Over. " alt="" coords="521,107,699,133"/>
+</map>

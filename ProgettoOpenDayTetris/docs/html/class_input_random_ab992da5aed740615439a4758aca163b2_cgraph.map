@@ -1,0 +1,6 @@
+<map id="leggiTasto" name="leggiTasto">
+<area shape="rect" id="node2" href="$class_timer.html#ab782202d331104c6461f775d9baea31a" title="Restituisce se è passato il tempo richiesto dall&#39;ultimo reset. " alt="" coords="135,5,257,32"/>
+<area shape="rect" id="node5" href="$class_timer.html#ad20897c5c8bd47f5d4005989bead0e55" title="Resetta il timer. " alt="" coords="329,56,415,83"/>
+<area shape="rect" id="node3" href="$class_timer.html#a8950950fca75c8f01f43779e863a5851" title="Restituisce i millisecondi passati dall&#39;ultimo reset. " alt="" coords="305,5,439,32"/>
+<area shape="rect" id="node4" href="$class_timer.html#ae5a74f6cb27ac4807f4112c8ef5aecae" title="Restituisce i millisecondi correnti. " alt="" coords="487,31,615,57"/>
+</map>

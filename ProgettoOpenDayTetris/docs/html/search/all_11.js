@@ -1,0 +1,22 @@
+var searchData=
+[
+  ['schermata',['Schermata',['../class_schermata.html',1,'']]],
+  ['schermata_2epde',['Schermata.pde',['../_schermata_8pde.html',1,'']]],
+  ['schermatacorrente',['schermataCorrente',['../_progetto_open_day_tetris_8pde.html#a5004fb37e5b206a832e488f750a6293c',1,'ProgettoOpenDayTetris.pde']]],
+  ['schermatadigioco',['SchermataDiGioco',['../class_schermata_di_gioco.html',1,'SchermataDiGioco'],['../class_schermata_di_gioco.html#aa217bf1013d493745c7844db3f80edee',1,'SchermataDiGioco.SchermataDiGioco()']]],
+  ['schermatadigioco_2epde',['SchermataDiGioco.pde',['../_schermata_di_gioco_8pde.html',1,'']]],
+  ['schermatagameover',['SchermataGameOver',['../class_schermata_game_over.html',1,'SchermataGameOver'],['../class_schermata_game_over.html#aeaf696ce3b4ee22d9f734035c05f8f2f',1,'SchermataGameOver.SchermataGameOver()']]],
+  ['schermatagameover_2epde',['SchermataGameOver.pde',['../_schermata_game_over_8pde.html',1,'']]],
+  ['schermatainiziale',['SchermataIniziale',['../class_schermata_iniziale.html',1,'SchermataIniziale'],['../class_schermata_iniziale.html#a7f01443665900d11dbcfb095828d6f4e',1,'SchermataIniziale.SchermataIniziale()']]],
+  ['schermatainiziale_2epde',['SchermataIniziale.pde',['../_schermata_iniziale_8pde.html',1,'']]],
+  ['schermatapartitapersa',['schermataPartitaPersa',['../class_schermata_game_over.html#a15d0f803756f904d0f12576208df3ea4',1,'SchermataGameOver']]],
+  ['scrivisufileesuvettore',['scriviSuFileESuVettore',['../class_file_di_testo.html#a5f83c827f867e8e0e3388f491249b462',1,'FileDiTesto']]],
+  ['setnome',['setNome',['../class_giocatore.html#a4d41b18fe7ae467fec31ac2851f94b60',1,'Giocatore']]],
+  ['setpressed',['setPressed',['../class_input_tastiera_1_1_key.html#ac4507a8ac3e5333c65d04178a06fa6d2',1,'InputTastiera::Key']]],
+  ['setpunteggio',['setPunteggio',['../class_giocatore.html#a8df4f15528c23027c4073700ff44e22b',1,'Giocatore']]],
+  ['setup',['setup',['../_progetto_open_day_tetris_8pde.html#a4fc01d736fe50cf5b977f755b675f11d',1,'ProgettoOpenDayTetris.pde']]],
+  ['sposta_5fdestra',['SPOSTA_DESTRA',['../interface_input.html#a1bd441d55118a4a496d65c384da7aa6a',1,'Input']]],
+  ['sposta_5fgiu',['SPOSTA_GIU',['../interface_input.html#a3133494417b19857f0d37b214046599f',1,'Input']]],
+  ['sposta_5fsinistra',['SPOSTA_SINISTRA',['../interface_input.html#a9e81b51da7442e0456edbbc22d049346',1,'Input']]],
+  ['spostagiu',['spostaGiu',['../class_schermata_di_gioco.html#a78a1909c840492ad7d4dc0c9f078bb9f',1,'SchermataDiGioco']]]
+];

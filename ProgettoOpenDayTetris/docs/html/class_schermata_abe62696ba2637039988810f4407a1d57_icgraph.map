@@ -1,0 +1,6 @@
+<map id="getAltezza" name="getAltezza">
+<area shape="rect" id="node2" href="$class_schermata.html#a4ee081b0d34af78f55ae7929fa3d7d46" title="Restituisce la coordinata Y del centro della finestra. " alt="" coords="183,5,269,32"/>
+<area shape="rect" id="node3" href="$class_schermata.html#aa0156523a88049eb9bea7163b4d958de" title="Restituisce l&#39;altezza della finestra. " alt="" coords="177,56,275,83"/>
+<area shape="rect" id="node4" href="$class_schermata_game_over.html#a56c5cf8a568cff737ff95520cbe6b405" title="Disegna la schermata di Game Over. " alt="" coords="137,107,315,133"/>
+<area shape="rect" id="node5" href="$class_schermata_iniziale.html#a56c5cf8a568cff737ff95520cbe6b405" title="Disegna il menu iniziale di gioco. " alt="" coords="148,157,304,184"/>
+</map>
